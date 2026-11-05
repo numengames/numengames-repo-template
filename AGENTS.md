@@ -6,6 +6,7 @@
 - **Project:** TODO (Summa, Assets, Fleet, Engine, numinia.com, Numen Games or Hermes).
 - **Human owner:** Pablo (@PabloFMM). He merges; agents open pull requests.
 - **Published at:** TODO (a URL, or "not published").
+- **Licence:** TODO (see the table in README.md; never leave it empty).
 
 ## Rules
 
