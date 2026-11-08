@@ -22,7 +22,8 @@ The names Numinia, Numen Games and Khepri are never licensed. If in doubt, ask P
 ## After "Use this template"
 
 1. Choose the licence (table above) and commit it first.
-2. Fill the `TODO` lines in `AGENTS.md` and write this README.
-3. Settings → Advanced Security → Dependabot alerts: on. A template does not copy settings.
-4. Give access to the GitHub Apps that work on it (Ursa's and `numinia-ci-puerta`).
-5. Tell Ursa: she adds the repository to Hermes's list (`repos_numen.py`), its project and SYS-013.
+2. Declare the licences with REUSE (`LICENSES/` plus `REUSE.toml`, STD-010) and run `reuse lint` until it is green before the first pull request.
+3. Fill the `TODO` lines in `AGENTS.md` and write this README.
+4. Settings → Advanced Security → Dependabot alerts: on. A template does not copy settings.
+5. Give access to the GitHub Apps that work on it (Ursa's and `numinia-ci-puerta`).
+6. Tell Ursa: she adds the repository to Hermes's list (`repos_numen.py`), its project and SYS-013.
